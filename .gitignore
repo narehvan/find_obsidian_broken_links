@@ -1,0 +1,12 @@
+# Editors
+.vscode
+
+# Environments
+.env
+.venv
+
+# Mac/OSX
+.DS_Store
+
+# Windows
+Thumbs.db
