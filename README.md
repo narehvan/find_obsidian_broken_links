@@ -1,5 +1,5 @@
 # find_obsidian_broken_link.py
-This script is specically for Obsidian note to help search for files that meet the two conditions below. 
+This script is specifically for Obsidian note to help search for files that meet the two conditions below. 
 
 This script does two actions:
 - Searches for Obsidian note files in the vault that contain a wikilink type link that points to a non-existing file
